@@ -6,7 +6,7 @@
 ### Discord Server - [DISCORD](https://discord.gg/jSDMuNjpuw)
 
 ### SETUP 
-- Add these 2 lines your to `Server.cfg`.
+- Add these 2 lines on your `Server.cfg`.
 - Ensure qb-clothing 
 - Done!
 
